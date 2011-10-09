@@ -20,9 +20,6 @@ directory.
 Configuration
 =============
 # This is an example, how to configure this module.
-#
-# To add this module add this line like others.
-module.uaPatternController=${play.path}/modulesUAPatternController
 
 # If you want to output the user-agent in debug log, set to "true".
 uaPatternController.log=false
